@@ -3,8 +3,9 @@
 <h1 align="center">Agustin Colina👨‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=00FFAA&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Programador+Jr+en+formación;Apasionado+por+la+tecnología+%F0%9F%92%BB;Siempre+aprendiendo+cosas+nuevas+%F0%9F%93%9A" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Programador+Jr+en+formación;Apasionado+por+la+tecnología;Siempre+aprendiendo" />
 </p>
+
 
 ---
 
@@ -54,18 +55,17 @@ Proyecto de **eCommerce** desarrollado en equipo como entrega de un trabajo prá
   <a href="mailto:colinaagustin92@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a>
-
-  <a/>
-
+  <a href="https://www.linkedin.com/in/agustincolina/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## 📚 Mis Aprendizajes Recientes
 
-Estos son algunos de los temas y herramientas que he estado aprendiendo recientemente:
+Estos son algunos de los temas y herramientas que he estado explorando y practicando recientemente:
 
-- 🧑‍💻 **FastAPI**: Empecé a trabajar con FastAPI para crear APIs rápidas y eficientes en Python.
-- 🔄 **Git y GitHub**: Mejoré mi flujo de trabajo con Git, aprendiendo a usar ramas, commits y pull requests de manera efectiva.
-
+- 🧑‍💻 **FastAPI**: Comencé a desarrollar APIs modernas y eficientes con FastAPI en Python, aplicando buenas prácticas de estructura, validación y documentación.
+- 🔄 **Git y GitHub**: Perfeccioné mi flujo de trabajo con control de versiones, utilizando ramas, commits descriptivos y pull requests para colaborar de forma ordenada y profesional.
+- 🗄️ **Bases de Datos y MySQL**: Aprendí a modelar, diseñar y consultar bases de datos relacionales utilizando MySQL. Implementé operaciones CRUD, relaciones entre tablas y buenas prácticas de normalización.
