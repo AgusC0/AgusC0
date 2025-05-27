@@ -1,4 +1,3 @@
-<img src='assets/tu_banner.png' width="100%">
 
 <h1 align="center">Agustin Colina👨‍💻</h1>
 
