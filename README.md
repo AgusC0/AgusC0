@@ -12,13 +12,13 @@
 ## 🎓 Mi Formación
 
 - 🎓 **Carrera:** Programación en [UTN (Universidad Tecnológica Nacional)](https://www.frvm.utn.edu.ar/).
-- 📚 He trabajado en varios proyectos académicos que involucran desarrollo web, bases de datos y APIs.
+- 📚 Trabajé en varios proyectos académicos que involucran desarrollo web, bases de datos y APIs.
 
 ---
 
 ## 🧠 ¿Quién soy?
 
-Soy un programador junior, con formación técnica y con ganas de aprender y aplicar mis conocimientos. Me apasiona la creación de soluciones innovadoras usando las últimas tecnologías y lenguajes de programación. Aunque todavía no tengo experiencia profesional, he trabajado en proyectos académicos que me han permitido desarrollar habilidades clave.
+Soy un programador junior, con formación técnica y con ganas de aprender y aplicar mis conocimientos. Me apasiona la creación de soluciones innovadoras. Aunque todavía no tengo experiencia profesional, he trabajado en proyectos académicos que me han permitido desarrollar habilidades clave.
 
 ---
 
@@ -31,15 +31,17 @@ Soy un programador junior, con formación técnica y con ganas de aprender y apl
 ## 📚 Mis Proyectos
 
 ### [BotJS](https://github.com/AgusC0/BotJS)
-Este es un bot de Discord desarrollado en **Node.js** utilizando la librería **discord.js**. Su objetivo es proporcionar diversas funcionalidades automatizadas para mejorar la experiencia de los usuarios en servidores de Discord.
+Es un bot de Discord desarrollado en **Node.js** utilizando la librería **discord.js**. Su objetivo es proporcionar diversas funcionalidades automatizadas para mejorar la experiencia de los usuarios en servidores de Discord.
 
 - Lenguajes: **JavaScript**
 - Funcionalidades principales: Gestión de usuarios, comandos personalizados, automatización de tareas en servidores.
 
 ### [PetsCare-Veterinary-TPI](https://github.com/AgusC0/PetsCare-Veterinary-TPI)
-Proyecto de trabajo práctico en grupo para la universidad. Desarrollado en **Python** utilizando el patrón **Model-View-Controller (MVC)**, este sistema permite el registro de animales y medicamentos médicos, con funcionalidades de gestión de usuarios y reportes.
+Proyecto de trabajo práctico en grupo para la universidad. Desarrollado en **Python** utilizando el patrón **Model-View-Controller (MVC)**. El sistema permite el registro y seguimiento de animales y medicamentos médicos, con funcionalidades de gestión de usuarios, generación de reportes y una **interfaz gráfica interactiva creada con Tkinter**.
 
 - Lenguajes: **Python**
+- Tecnologías: **Tkinter**, **MVC**
+- Funcionalidades: Registro de pacientes, historial médico, reportes, gestión de usuarios.
 
 ### [eCommerce-Project](https://github.com/AgusC0/eCommerce-Project)
 Proyecto de **eCommerce** desarrollado en equipo como entrega de un trabajo práctico para la **UTN**. Implementa funciones de **CRUD** para la gestión de productos y usuarios, incluyendo carrito de compras y procesamiento de pagos.
@@ -68,10 +70,9 @@ Proyecto de **eCommerce** desarrollado en equipo como entrega de un trabajo prá
 
 ## 📚 Mis Aprendizajes Recientes
 
-Estos son algunos de los temas y herramientas que he estado explorando y practicando recientemente:
+Estas son herramientas que he estado explorando y practicando recientemente:
 
-- 🧑‍💻 **FastAPI**: Comencé a desarrollar APIs modernas y eficientes con FastAPI en Python, aplicando buenas prácticas de estructura, validación y documentación.
+- 🧑‍💻 **FastAPI**: Estoy desarrollando APIs eficientes con FastAPI en Python, aplicando buenas prácticas de estructura, validación y documentación.
 - 🔄 **Git y GitHub**: Perfeccioné mi flujo de trabajo con control de versiones, utilizando ramas, commits descriptivos y pull requests para colaborar de forma ordenada y profesional.
 - 🗄️ **Bases de Datos y MySQL**: Aprendí a modelar, diseñar y consultar bases de datos relacionales utilizando MySQL. Implementé operaciones CRUD, relaciones entre tablas y buenas prácticas de normalización.
-
 
