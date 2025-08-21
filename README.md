@@ -11,26 +11,32 @@
 
 ## 🎓 Mi Formación
 
-- 🎓 **Carrera:** Programación en [UTN (Universidad Tecnológica Nacional)](https://www.frvm.utn.edu.ar/).
-- 📚 Trabajé en varios proyectos académicos que involucran desarrollo web, bases de datos y APIs.
+- 🎓 **Carrera:** Programación en [UTN (Universidad Tecnológica Nacional)](https://www.frvm.utn.edu.ar/).  
+- 📚 En la universidad adquirí conocimientos en desarrollo web, bases de datos y APIs.  
+- 🚀 **CoFounder en [ExTend](https://extendsystem.com/)**: Participación activa en proyectos de desarrollo en conjunto con el equipo, aportando en planificación, programación y comunicación constante para la organización del trabajo.  
+  - 🌐 [Instagram ExTend](https://www.instagram.com/extend.software/)  
+- 💼 **Pasante en [FactoryCreativeStudio](https://www.instagram.com/factorycreativestudio/)**: Experiencia práctica en proyectos reales, trabajando en equipo y aplicando metodologías colaborativas.  
+
 
 ---
 
-## 🧠 ¿Quién soy?
+## 🧠 ¿Quién soy?  
 
-Soy un programador junior, con formación técnica y con ganas de aprender y aplicar mis conocimientos. Me apasiona la creación de soluciones innovadoras. Aunque todavía no tengo experiencia profesional, he trabajado en proyectos académicos que me han permitido desarrollar habilidades clave.
+Soy un **programador junior** con formación técnica, iniciativa y muchas ganas de aprender y aplicar mis conocimientos en proyectos reales.  
+Me apasiona la idea de **crear soluciones desde cero**, explorando nuevas herramientas y tecnologías. Disfruto especialmente del **desarrollo visual**, donde puedo combinar la lógica de la programación con la creatividad para transformar ideas en productos funcionales y atractivos.  
+
 
 ---
 
 ## 💻 Habilidades Técnicas  
 
-![My Skills](https://skillicons.dev/icons?i=python,js,ts,html,css,react,fastapi,tailwind,postgres,sqlite,nodejs,git)  
+![My Skills](https://skillicons.dev/icons?i=python,js,ts,html,css,react,nextjs,nodejs,express,tailwind,postgres,mysql,sqlite,git)  
 
-- **Frontend**: React, Vite, TypeScript, TailwindCSS, ShadCN  
-- **Backend**: FastAPI, Node.js  
-- **Bases de Datos**: PostgreSQL, SQLite  
+- **Frontend**: React, Next.js, Vite, TypeScript, TailwindCSS, ShadCN  
+- **Backend**: Node.js, Express, FastAPI  
+- **Bases de Datos**: MySQL, PostgreSQL, SQLite  
 - **Móvil**: React Native, Expo  
-- **Otros**: Git/GitHub, APIs REST, MVC, ABM, SaaS 
+- **Otros**: Git/GitHub, APIs REST  
 ---
 
 ## 📚 Mis Proyectos  
@@ -105,6 +111,7 @@ Estas son herramientas y tecnologías que he estado explorando y practicando rec
 - ⚛️ **React + Vite con TypeScript**: Creación de interfaces modernas y optimizadas para web apps, aplicando componentes reutilizables y tipado estático.  
 - 🎨 **TailwindCSS y ShadCN**: Implementación de diseños modernos, responsivos y consistentes con componentes preconstruidos y estilización personalizada.  
 - 📱 **React Native + Expo**: Desarrollo de aplicaciones móviles multiplataforma (iOS y Android), integradas con APIs y dashboards web.  
+
 
 
 
