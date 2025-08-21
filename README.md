@@ -22,34 +22,63 @@ Soy un programador junior, con formación técnica y con ganas de aprender y apl
 
 ---
 
-## 💻 Habilidades Técnicas
+## 💻 Habilidades Técnicas  
 
-![My Skills](https://skillicons.dev/icons?i=python,js,html,css,react,fastapi,sql)
+![My Skills](https://skillicons.dev/icons?i=python,js,ts,html,css,react,fastapi,tailwind,postgres,sqlite,nodejs,git)  
 
+- **Frontend**: React, Vite, TypeScript, TailwindCSS, ShadCN  
+- **Backend**: FastAPI, Node.js  
+- **Bases de Datos**: PostgreSQL, SQLite  
+- **Móvil**: React Native, Expo  
+- **Otros**: Git/GitHub, APIs REST, MVC, ABM, SaaS 
 ---
 
-## 📚 Mis Proyectos
+📚 Mis Proyectos
+Gimnasio Roger - Web & App
 
-### [BotJS](https://github.com/AgusC0/BotJS)
-Es un bot de Discord desarrollado en **Node.js** utilizando la librería **discord.js**. Su objetivo es proporcionar diversas funcionalidades automatizadas para mejorar la experiencia de los usuarios en servidores de Discord.
+Desarrollo de la página web oficial y aplicación móvil para Gimnasio Roger, con un enfoque tipo SaaS que permite administrar el contenido de forma dinámica desde un dashboard.
 
-- Lenguajes: **JavaScript**
-- Funcionalidades principales: Gestión de usuarios, comandos personalizados, automatización de tareas en servidores.
+Web:
 
-### [PetsCare-Veterinary-TPI](https://github.com/AgusC0/PetsCare-Veterinary-TPI)
-Proyecto de trabajo práctico en grupo para la universidad. Desarrollado en **Python** utilizando el patrón **Model-View-Controller (MVC)**. El sistema permite el registro y seguimiento de animales y medicamentos médicos, con funcionalidades de gestión de usuarios, generación de reportes y una **interfaz gráfica interactiva creada con Tkinter**.
+Tecnologías: React + Vite, TypeScript, TailwindCSS, ShadCN, PostgreSQL
 
-- Lenguajes: **Python**
-- Tecnologías: **Tkinter**, **MVC**
-- Funcionalidades: Registro de pacientes, historial médico, reportes, gestión de usuarios.
+Funcionalidades:
 
-### [eCommerce-Project](https://github.com/AgusC0/eCommerce-Project)
-Proyecto de **eCommerce** desarrollado en equipo como entrega de un trabajo práctico para la **UTN**. Implementa funciones de **CRUD** para la gestión de productos y usuarios, incluyendo carrito de compras y procesamiento de pagos.
+ABM de máquinas administrado desde panel
 
-- Lenguajes: **CSS**, **HTML**, **JavaScript**
-- Funcionalidades: Gestión de productos, carrito de compras, usuarios, pagos.
+Secciones personalizables (sobre nosotros, entrenamientos, estadísticas, etc.)
 
----
+Dashboard con métricas y estadísticas para gestión interna
+
+App móvil:
+
+Creada con React Native + Expo para despliegue en iOS y Android
+
+Funcionalidades:
+
+Gestión de turnos y clases conectada con la web
+
+Manejo de tokens para reservas y control de acceso
+
+Integración con el dashboard central
+
+🌐 [Página Web](https://gimnasioroger.com/) 
+
+BotJS
+
+Es un bot de Discord desarrollado en Node.js utilizando la librería discord.js. Su objetivo es proporcionar diversas funcionalidades automatizadas para mejorar la experiencia de los usuarios en servidores de Discord.
+
+Lenguajes: JavaScript
+
+Funcionalidades principales: Gestión de usuarios, comandos personalizados, automatización de tareas en servidores.
+
+eCommerce-Project
+
+Proyecto de eCommerce desarrollado en equipo como entrega de un trabajo práctico para la UTN. Implementa funciones de CRUD para la gestión de productos y usuarios, incluyendo carrito de compras y procesamiento de pagos.
+
+Lenguajes: CSS, HTML, JavaScript
+
+Funcionalidades: Gestión de productos, carrito de compras, usuarios, pagos.
 
 ## 🌐 Redes y Contacto
 
@@ -68,11 +97,17 @@ Proyecto de **eCommerce** desarrollado en equipo como entrega de un trabajo prá
 
 ---
 
-## 📚 Mis Aprendizajes Recientes
+## 📚 Mis Aprendizajes Recientes  
 
-Estas son herramientas que he estado explorando y practicando recientemente:
+Estas son herramientas y tecnologías que he estado explorando y practicando recientemente:  
 
-- 🧑‍💻 **FastAPI**: Estoy desarrollando APIs eficientes con FastAPI en Python, aplicando buenas prácticas de estructura, validación y documentación.
-- 🔄 **Git y GitHub**: Perfeccioné mi flujo de trabajo con control de versiones, utilizando ramas, commits descriptivos y pull requests para colaborar de forma ordenada y profesional.
-- 🗄️ **Bases de Datos y MySQL**: Aprendí a modelar, diseñar y consultar bases de datos relacionales utilizando MySQL. Implementé operaciones CRUD, relaciones entre tablas y buenas prácticas de normalización.
+- 🧑‍💻 **FastAPI**: Desarrollo de APIs eficientes en Python, aplicando buenas prácticas de estructura, validación y documentación.  
+- 🔄 **Git y GitHub**: Flujo de trabajo profesional con control de versiones, ramas, commits descriptivos y pull requests.  
+- 🗄️ **Bases de Datos**:  
+  - **MySQL**: Modelado, diseño y consultas SQL, con operaciones CRUD y normalización.  
+  - **PostgreSQL**: Integración en proyectos web con React y dashboards administrativos.  
+- ⚛️ **React + Vite con TypeScript**: Creación de interfaces modernas y optimizadas para web apps, aplicando componentes reutilizables y tipado estático.  
+- 🎨 **TailwindCSS y ShadCN**: Implementación de diseños modernos, responsivos y consistentes con componentes preconstruidos y estilización personalizada.  
+- 📱 **React Native + Expo**: Desarrollo de aplicaciones móviles multiplataforma (iOS y Android), integradas con APIs y dashboards web.  
+
 
