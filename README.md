@@ -33,52 +33,48 @@ Soy un programador junior, con formación técnica y con ganas de aprender y apl
 - **Otros**: Git/GitHub, APIs REST, MVC, ABM, SaaS 
 ---
 
-📚 Mis Proyectos
-Gimnasio Roger - Web & App
+## 📚 Mis Proyectos  
 
-Desarrollo de la página web oficial y aplicación móvil para Gimnasio Roger, con un enfoque tipo SaaS que permite administrar el contenido de forma dinámica desde un dashboard.
+### [Gimnasio Roger - Web & App](https://gimnasioroger.com/)  
+Desarrollo de la página web oficial y aplicación móvil para **Gimnasio Roger**, con un enfoque tipo **SaaS** que permite administrar el contenido de forma dinámica desde un **dashboard**.  
 
-Web:
+- **Web**  
+  - Tecnologías: React + Vite, TypeScript, TailwindCSS, ShadCN, PostgreSQL  
+  - Funcionalidades:  
+    - ABM de máquinas administrado desde panel  
+    - Secciones personalizables (sobre nosotros, entrenamientos, estadísticas, etc.)  
+    - Dashboard con métricas y estadísticas para gestión interna  
 
-Tecnologías: React + Vite, TypeScript, TailwindCSS, ShadCN, PostgreSQL
+- **App móvil**  
+  - Creada con React Native + Expo para despliegue en iOS y Android  
+  - Funcionalidades:  
+    - Gestión de turnos y clases conectada con la web  
+    - Manejo de tokens para reservas y control de acceso  
+    - Integración con el dashboard central  
 
-Funcionalidades:
+---
 
-ABM de máquinas administrado desde panel
+### [BotJS](https://github.com/AgusC0/BotJS)  
+Bot de Discord desarrollado en **Node.js** utilizando la librería **discord.js**. Su objetivo es proporcionar diversas funcionalidades automatizadas para mejorar la experiencia de los usuarios en servidores.  
 
-Secciones personalizables (sobre nosotros, entrenamientos, estadísticas, etc.)
+- Lenguaje: JavaScript  
+- Funcionalidades principales:  
+  - Gestión de usuarios  
+  - Comandos personalizados  
+  - Automatización de tareas en servidores  
 
-Dashboard con métricas y estadísticas para gestión interna
+---
 
-App móvil:
+### [eCommerce-Project](https://github.com/AgusC0/eCommerce-Project)  
+Proyecto de **eCommerce** desarrollado en equipo como entrega de un trabajo práctico para la **UTN**. Implementa funciones de **CRUD** para la gestión de productos y usuarios, incluyendo carrito de compras y procesamiento de pagos.  
 
-Creada con React Native + Expo para despliegue en iOS y Android
+- Lenguajes: HTML, CSS, JavaScript  
+- Funcionalidades:  
+  - Gestión de productos  
+  - Carrito de compras  
+  - Gestión de usuarios  
+  - Procesamiento de pagos  
 
-Funcionalidades:
-
-Gestión de turnos y clases conectada con la web
-
-Manejo de tokens para reservas y control de acceso
-
-Integración con el dashboard central
-
-🌐 [Página Web](https://gimnasioroger.com/) 
-
-BotJS
-
-Es un bot de Discord desarrollado en Node.js utilizando la librería discord.js. Su objetivo es proporcionar diversas funcionalidades automatizadas para mejorar la experiencia de los usuarios en servidores de Discord.
-
-Lenguajes: JavaScript
-
-Funcionalidades principales: Gestión de usuarios, comandos personalizados, automatización de tareas en servidores.
-
-eCommerce-Project
-
-Proyecto de eCommerce desarrollado en equipo como entrega de un trabajo práctico para la UTN. Implementa funciones de CRUD para la gestión de productos y usuarios, incluyendo carrito de compras y procesamiento de pagos.
-
-Lenguajes: CSS, HTML, JavaScript
-
-Funcionalidades: Gestión de productos, carrito de compras, usuarios, pagos.
 
 ## 🌐 Redes y Contacto
 
@@ -109,5 +105,6 @@ Estas son herramientas y tecnologías que he estado explorando y practicando rec
 - ⚛️ **React + Vite con TypeScript**: Creación de interfaces modernas y optimizadas para web apps, aplicando componentes reutilizables y tipado estático.  
 - 🎨 **TailwindCSS y ShadCN**: Implementación de diseños modernos, responsivos y consistentes con componentes preconstruidos y estilización personalizada.  
 - 📱 **React Native + Expo**: Desarrollo de aplicaciones móviles multiplataforma (iOS y Android), integradas con APIs y dashboards web.  
+
 
 
