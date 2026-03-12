@@ -11,7 +11,7 @@
 - 🎓 **Carrera:** Programación en [UTN (Universidad Tecnológica Nacional)](https://www.frvm.utn.edu.ar/).  
 - 📚 En la universidad adquirí conocimientos en desarrollo web, bases de datos y APIs.  
 - 🚀 **CoFounder en [ExTend](https://extendsystem.com/)**: Participación activa en proyectos de desarrollo en conjunto con el equipo, aportando en planificación, programación y comunicación constante para la organización del trabajo.  
-  - 💻 **Diseño y desarrollo completo del sitio web de ExTend**, realizado con **Next.js**, aplicando un estilo moderno con animaciones, secciones dinámicas y componentes reutilizables.  
+  - 💻 **Diseño y desarrollo completo del sitio web de ExTend**, realizado con **Vite**, aplicando un estilo moderno con animaciones, secciones dinámicas y componentes reutilizables.  
   - 🌐 [Instagram ExTend](https://www.instagram.com/extend.system/)  
 
 - 💼 **Pasante en [FactoryCreativeStudio](https://www.instagram.com/factorycreativestudio/)**: Experiencia práctica en proyectos reales, trabajando en equipo y aplicando metodologías colaborativas.  
@@ -60,10 +60,10 @@ Desarrollo de la página web oficial y aplicación móvil para **Gimnasio Roger*
 ---
 
 ### [ExTend - Sitio Web Oficial](https://extendsystem.com/)  
-Diseño y desarrollo completo del sitio web de **ExTend**, realizado en **Next.js** con un enfoque moderno y dinámico.  
+Diseño y desarrollo completo del sitio web de **ExTend**, realizado en **Vite** con un enfoque moderno y dinámico.  
 Se trabajó en la experiencia visual, animaciones, estructura modular y componentes reutilizables.  
 
-- **Tecnologías**: Next.js, React, TypeScript, TailwindCSS, Framer Motion  
+- **Tecnologías**: Vite, React, TypeScript, TailwindCSS, Framer Motion  
 - **Características**:  
   - Diseño responsive y fluido  
   - Secciones animadas e interactivas  
@@ -124,5 +124,6 @@ Estas son herramientas y tecnologías que he estado explorando y practicando rec
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+
 
 
